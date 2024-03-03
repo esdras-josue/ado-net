@@ -1,0 +1,10 @@
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\Winform-app.exe.config
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\Winform-app.exe
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\Winform-app.pdb
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform_app.FrmDisk.resources
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform_app.Properties.Resources.resources
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.csproj.GenerateResource.cache
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.exe
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.pdb
