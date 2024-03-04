@@ -8,10 +8,12 @@ namespace Winform_app
 {
     class Disk
     {
-        public string Title {  get; set; }
-        public DateTime ReleaseDate { get; set; }
+        public string Title { get; set; }
+        public DateTime ReleaseDate {get; set;}
         public int SongsNumber { get; set; }
         public string UrlImagen { get; set; }
+        public Edition EditionType { get; set; }
+        public MusicalGenre Genre { get; set; }
 
     }
 }

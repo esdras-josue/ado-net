@@ -41,15 +41,15 @@
             this.dgvDisk.Name = "dgvDisk";
             this.dgvDisk.RowHeadersWidth = 51;
             this.dgvDisk.RowTemplate.Height = 24;
-            this.dgvDisk.Size = new System.Drawing.Size(622, 314);
+            this.dgvDisk.Size = new System.Drawing.Size(704, 314);
             this.dgvDisk.TabIndex = 0;
             this.dgvDisk.SelectionChanged += new System.EventHandler(this.dgvDisk_SelectionChanged);
             // 
             // pbxDisk
             // 
-            this.pbxDisk.Location = new System.Drawing.Point(652, 45);
+            this.pbxDisk.Location = new System.Drawing.Point(733, 38);
             this.pbxDisk.Name = "pbxDisk";
-            this.pbxDisk.Size = new System.Drawing.Size(341, 314);
+            this.pbxDisk.Size = new System.Drawing.Size(369, 328);
             this.pbxDisk.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbxDisk.TabIndex = 1;
             this.pbxDisk.TabStop = false;
@@ -58,7 +58,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1014, 450);
+            this.ClientSize = new System.Drawing.Size(1144, 516);
             this.Controls.Add(this.pbxDisk);
             this.Controls.Add(this.dgvDisk);
             this.Name = "FrmDisk";

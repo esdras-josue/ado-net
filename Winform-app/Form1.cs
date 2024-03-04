@@ -23,6 +23,7 @@ namespace Winform_app
             DiskBusiness business = new DiskBusiness();
             diskList = business.toList();
             dgvDisk.DataSource = diskList;
+            dgvDisk.Columns["UrlImagen"].Visible = false;
             loadImage(diskList[0].UrlImagen);
         }
 
