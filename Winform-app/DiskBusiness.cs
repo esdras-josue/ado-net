@@ -21,7 +21,7 @@ namespace Winform_app
             {
                 connection.ConnectionString = "server=.\\SQLEXPRESS; database=DISCOS_DB; integrated security=true";
                 cmd.CommandType = System.Data.CommandType.Text; // reads database
-                cmd.CommandText = "select Titulo, FechaLanzamiento, CantidadCanciones from DISCOS";
+                cmd.CommandText = "select Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa from DISCOS";
                 cmd.Connection = connection; 
 
                 connection.Open();
@@ -33,6 +33,7 @@ namespace Winform_app
                     aux.Title = (string)reader["Titulo"];
                     aux.ReleaseDate = (DateTime)reader["FechaLanzamiento"];
                     aux.SongsNumber = (int)reader["CantidadCanciones"];
+                    aux.UrlImagen = (string)reader["UrlImagenTapa"];
 
                     list.Add(aux);
                 }

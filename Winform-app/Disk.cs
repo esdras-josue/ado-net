@@ -11,6 +11,7 @@ namespace Winform_app
         public string Title {  get; set; }
         public DateTime ReleaseDate { get; set; }
         public int SongsNumber { get; set; }
+        public string UrlImagen { get; set; }
 
     }
 }

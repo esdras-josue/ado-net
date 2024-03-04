@@ -12,6 +12,7 @@ namespace Winform_app
 {
     public partial class FrmDisk : Form
     {
+        private List<Disk> diskList;
         public FrmDisk()
         {
             InitializeComponent();
@@ -20,7 +21,26 @@ namespace Winform_app
         private void FrmDisk_Load(object sender, EventArgs e)
         {
             DiskBusiness business = new DiskBusiness();
-            dgvDisk.DataSource = business.toList();
+            diskList = business.toList();
+            dgvDisk.DataSource = diskList;
+            loadImage(diskList[0].UrlImagen);
+        }
+
+        private void dgvDisk_SelectionChanged(object sender, EventArgs e)
+        {
+           Disk selected = (Disk) dgvDisk.CurrentRow.DataBoundItem;
+           loadImage(selected.UrlImagen);
+        }
+        private void loadImage(string image)
+        {
+            try
+            {
+                pbxDisk.Load(image);
+            }
+            catch (Exception ex)
+            {
+                pbxDisk.Load("https://th.bing.com/th/id/OIP.F00dCf4bXxX0J-qEEf4qIQHaD6?rs=1&pid=ImgDetMain");
+            }  
         }
     }
 }

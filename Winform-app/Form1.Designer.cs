@@ -29,7 +29,9 @@
         private void InitializeComponent()
         {
             this.dgvDisk = new System.Windows.Forms.DataGridView();
+            this.pbxDisk = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDisk)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbxDisk)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvDisk
@@ -41,17 +43,29 @@
             this.dgvDisk.RowTemplate.Height = 24;
             this.dgvDisk.Size = new System.Drawing.Size(622, 314);
             this.dgvDisk.TabIndex = 0;
+            this.dgvDisk.SelectionChanged += new System.EventHandler(this.dgvDisk_SelectionChanged);
+            // 
+            // pbxDisk
+            // 
+            this.pbxDisk.Location = new System.Drawing.Point(652, 45);
+            this.pbxDisk.Name = "pbxDisk";
+            this.pbxDisk.Size = new System.Drawing.Size(341, 314);
+            this.pbxDisk.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbxDisk.TabIndex = 1;
+            this.pbxDisk.TabStop = false;
             // 
             // FrmDisk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1014, 450);
+            this.Controls.Add(this.pbxDisk);
             this.Controls.Add(this.dgvDisk);
             this.Name = "FrmDisk";
             this.Text = "Music Discs";
             this.Load += new System.EventHandler(this.FrmDisk_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDisk)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbxDisk)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -59,6 +73,7 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dgvDisk;
+        private System.Windows.Forms.PictureBox pbxDisk;
     }
 }
 
