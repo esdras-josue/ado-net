@@ -1,0 +1,9 @@
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\bin\Debug\business.dll
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\bin\Debug\business.pdb
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\obj\Debug\business.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\obj\Debug\business.csproj.Up2Date
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\obj\Debug\business.dll
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\business\obj\Debug\business.pdb

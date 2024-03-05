@@ -8,3 +8,8 @@ C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.cs
 C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.csproj.CoreCompileInputs.cache
 C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.exe
 C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-app.pdb
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\obj\Debug\Winform-.0DA70FA4.Up2Date
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\business.dll
+C:\Users\esdra\Desktop\C# nivel dos\ado-net\Winform-app\bin\Debug\business.pdb

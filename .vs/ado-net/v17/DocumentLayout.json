@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\winform-app\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9460C890-E0B7-4CCB-8CD9-5B518B368B98}|business\\business.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\business\\diskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460C890-E0B7-4CCB-8CD9-5B518B368B98}|business\\business.csproj|solutionrelative:business\\diskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\winform-app\\musicalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\musicalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\dominio\\musicalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|solutionrelative:dominio\\musicalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\winform-app\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\dominio\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|solutionrelative:dominio\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\winform-app\\diskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\diskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\dominio\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA913B-643E-4154-96E0-2B080B9B78F6}|dominio\\dominio.csproj|solutionrelative:dominio\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\winform-app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\ado-net\\winform-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\winform-app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{632ACB55-C672-48A8-B221-6F0549024A01}|Winform-app\\Winform-app.csproj|solutionrelative:winform-app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,71 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edition.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Edition.cs",
-              "RelativeDocumentMoniker": "Winform-app\\Edition.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Edition.cs",
-              "RelativeToolTip": "Winform-app\\Edition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA3AAAA",
+              "Title": "DiskBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\business\\DiskBusiness.cs",
+              "RelativeDocumentMoniker": "business\\DiskBusiness.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\business\\DiskBusiness.cs",
+              "RelativeToolTip": "business\\DiskBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:36:46.07Z",
+              "WhenOpened": "2024-03-05T02:22:48.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MusicalGenre.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\MusicalGenre.cs",
-              "RelativeDocumentMoniker": "Winform-app\\MusicalGenre.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\MusicalGenre.cs",
-              "RelativeToolTip": "Winform-app\\MusicalGenre.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAApwAgAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\MusicalGenre.cs",
+              "RelativeDocumentMoniker": "dominio\\MusicalGenre.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\MusicalGenre.cs",
+              "RelativeToolTip": "dominio\\MusicalGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:23:51.74Z",
+              "WhenOpened": "2024-03-05T02:16:56.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Disk.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Disk.cs",
-              "RelativeDocumentMoniker": "Winform-app\\Disk.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Disk.cs",
-              "RelativeToolTip": "Winform-app\\Disk.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAawAoAAAApAAAA",
+              "Title": "Edition.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\Edition.cs",
+              "RelativeDocumentMoniker": "dominio\\Edition.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\Edition.cs",
+              "RelativeToolTip": "dominio\\Edition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:39:48.764Z",
+              "WhenOpened": "2024-03-05T02:16:50.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DiskBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\DiskBusiness.cs",
-              "RelativeDocumentMoniker": "Winform-app\\DiskBusiness.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\DiskBusiness.cs",
-              "RelativeToolTip": "Winform-app\\DiskBusiness.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAApwBkAAAAAAAAA",
+              "Title": "Disk.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\Disk.cs",
+              "RelativeDocumentMoniker": "dominio\\Disk.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\dominio\\Disk.cs",
+              "RelativeToolTip": "dominio\\Disk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:49:32.669Z",
+              "WhenOpened": "2024-03-05T02:16:05.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Program.cs",
+              "RelativeDocumentMoniker": "Winform-app\\Program.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Program.cs",
+              "RelativeToolTip": "Winform-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:12:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Form1.cs",
               "RelativeDocumentMoniker": "Winform-app\\Form1.cs",
               "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Form1.cs",
               "RelativeToolTip": "Winform-app\\Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T19:34:34.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\ado-net\\Winform-app\\Form1.cs",
               "RelativeDocumentMoniker": "Winform-app\\Form1.cs",

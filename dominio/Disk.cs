@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Winform_app
+namespace dominio
 {
-    class Disk
+    public class Disk
     {
         public string Title { get; set; }
         public DateTime ReleaseDate {get; set;}

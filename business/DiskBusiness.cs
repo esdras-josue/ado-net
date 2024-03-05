@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using dominio;
 
-namespace Winform_app
+namespace businness
 {
-    class DiskBusiness
+    public class DiskBusiness
     {
         public List<Disk> toList() // method that reads from the database
         {
@@ -43,7 +44,6 @@ namespace Winform_app
 
                     list.Add(aux);
                 }
-
                 connection.Close();
                 return list;    
             }

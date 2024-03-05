@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Winform_app
+namespace dominio
 {
-    internal class MusicalGenre
+    public class Edition
     {
-        public int Id { get; set; }
-        public string GenreDescripcion {  get; set; }
+        public int Id {  get; set; }
+        public string EditionDescripcion {  get; set; }
 
         public override string ToString()
         {
-            return GenreDescripcion;
+            return EditionDescripcion;
         }
     }
 }
